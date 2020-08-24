@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kontakty_v2.xsl"?>
+
+<kontakty>
+
+	<kontakt typ="prywatny">
+		<imie>Adam</imie>
+		<nazwisko>Abacki</nazwisko>
+		<tel>111-222-333</tel>
+		<email>abacki@a.pl</email>
+		<strona_www>http://abacki.pl</strona_www>
+		<skype>aba_abacki</skype>
+	</kontakt>
+
+	<kontakt typ="prywatny">
+		<imie>Anna</imie>
+		<nazwisko>Abacka</nazwisko>
+		<tel>111-123-111</tel>
+		<facebook>https://www.facebook.com/profile.php?id=10000012235235345</facebook>
+	</kontakt>
+
+	<kontakt typ="firmowy">
+		<imie>Barabara</imie>
+		<nazwisko>Babacka</nazwisko>
+		<firma>
+			<nazwa>Firma1</nazwa>
+			<strona_www>http://firma1.example.pl</strona_www>
+			<NIP>321-456-665</NIP>
+			<ulica>Krakowska</ulica>
+			<nr>28</nr>
+			<kod>30-658</kod>
+			<miasto>Kraków</miasto>
+			<logo>1.png</logo>
+		</firma>
+		<tel>999-001-000</tel>
+		<email>bb@firma1.example.pl</email>
+		<skype>firma_1</skype>
+		<facebook>https://www.facebook.com/profile.php?id=10000082334545756</facebook>
+		<fax>(22)5698745</fax>
+	</kontakt>
+
+	<kontakt typ="firmowy">
+		<imie>Cezary</imie>
+		<nazwisko>Cabacki</nazwisko>
+		<firma>
+			<nazwa>Firma 2</nazwa>
+			<strona_www>http://firma2.example.pl</strona_www>
+			<NIP>546-986-532</NIP>
+			<ulica>Warszawska</ulica>
+			<nr>23</nr>
+			<kod>30-547</kod>
+			<miasto>Kraków</miasto>
+			<logo>2.png</logo>
+		</firma>
+		<tel>999-111-000</tel>
+		<email>cc@firma2.example.pl</email>
+		<fax>(22)2596745</fax>
+	</kontakt>
+
+	<kontakt typ="prywatny">
+		<imie>Danuta</imie>
+		<nazwisko>Dabacka</nazwisko>
+		<tel>111-222-222</tel>
+		<facebook>https://www.facebook.com/profile.php?id=10000085476576868</facebook>
+	</kontakt>
+	
+	<kontakt typ="prywatny">
+		<imie>Michał</imie>
+		<nazwisko>Michalski</nazwisko>
+		<tel>444-222-333</tel>
+		<email>mm@a.pl</email>
+		<skype>Michal_Michal</skype>
+	</kontakt>
+	
+	<kontakt typ="prywatny">
+		<imie>Kamil</imie>
+		<nazwisko>Kamilski</nazwisko>
+		<tel>111-44-333</tel>
+		<email>kamilk@a.pl</email>
+		<skype>Kamil_Kamil</skype>
+		<facebook>https://www.facebook.com/profile.php?id=10000085656575675</facebook>
+	</kontakt>
+	
+	<kontakt typ="firmowy">
+		<imie>Dariusz</imie>
+		<nazwisko>Darecki</nazwisko>
+		<firma>
+			<nazwa>Firma 3</nazwa>
+			<strona_www>http://firma3.example.pl</strona_www>
+			<NIP>354-678-212</NIP>
+			<ulica>Lubelska</ulica>
+			<nr>12</nr>
+			<kod>65-875</kod>
+			<miasto>Warszawa</miasto>
+			<logo>3.png</logo>
+		</firma>
+		<tel>119-001-000</tel>
+		<email>dd@firma1.example.pl</email>
+		<facebook>https://www.facebook.com/profile.php?id=1000008457567567567</facebook>
+		<fax>(22)6465987</fax>
+	</kontakt>
+	
+	<kontakt typ="firmowy">
+		<imie>Wojciech</imie>
+		<nazwisko>Wojciechowski</nazwisko>
+		<firma>
+			<nazwa>Firma 4</nazwa>
+			<strona_www>http://firma4.example.pl</strona_www>
+			<NIP>469-523-654</NIP>
+			<ulica>Krakowska</ulica>
+			<nr>53</nr>
+			<kod>45-656</kod>
+			<miasto>Warszawa</miasto>
+			<logo>4.png</logo>
+		</firma>
+		<tel>911-001-000</tel>
+		<email>ww@firma1.example.pl</email>
+		<fax>(22)5659865</fax>
+	</kontakt>
+
+
+</kontakty>
